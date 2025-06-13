@@ -38,6 +38,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imeh-James-Emmanuel&show_icons=true&theme=dark" alt="Imeh-James Emmanuel GitHub Stats" />
-</p>
