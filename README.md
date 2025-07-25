@@ -17,7 +17,7 @@
 - 🎨 Frontend Developer  |  💻 Software Developer  
 - 💡 Passionate about creating intuitive, dynamic user experiences  
 - 🌍 Based in Nigeria  
-- 🌱 Currently learning advancedNextjs patterns and TypeScript 
+- 🌱 Currently learning advanced Nextjs patterns and TypeScript 
 - ⚡ Fun fact: I love building products that impact people's daily lives  
 
 ---
